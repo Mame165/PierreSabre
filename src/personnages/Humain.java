@@ -22,7 +22,7 @@ public class Humain {
 	}
 	
 	public void direBonjour() {
-		parler("Bonjour ! Je m'appelle " + nom + " et j'aime boire " + boissonFavorite);
+		parler("Bonjour ! Je m'appelle " + nom + " et j'aime boire " + boissonFavorite +".");
 	}
 	
 	public void boire() {
